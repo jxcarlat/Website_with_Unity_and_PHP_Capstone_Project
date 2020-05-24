@@ -1,0 +1,20 @@
+html{
+    background:grey;
+}
+
+body{
+    background:white;
+    margin:5% 40%;
+    padding:1%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#Login{
+    background:#e5e5e5;
+    border-radius: 20px;
+}
+
+h3{
+    background-color:#c1c1c1;
+}
